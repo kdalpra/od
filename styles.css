@@ -47,7 +47,6 @@
     width: 70%;
     padding-top: 20px;
     padding-bottom: 20px;
-
   }
   .projects a{
     margin-left: 15%;
@@ -80,7 +79,7 @@
 
   @media (min-width: 320px) and (max-width: 500px) {
     .projlist img{
-      width: 80%;
+      width: 90%;
       margin-left: auto;
       margin-right: auto;
       padding: 5px;
@@ -88,6 +87,22 @@
     .projlist hr{
       margin-left: 5%;
       margin-right: 5%;
+    }
+
+
+
+    .mainimage img{
+      display: block;
+      margin-left: 10%;
+      margin-right: 10%;
+      width: 80%;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    
+    }
+    .projects hr{
+      margin-left: 10%;
+      margin-right: 10%;
     }
     
     
