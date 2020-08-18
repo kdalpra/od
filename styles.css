@@ -33,6 +33,7 @@
   }
   .company a{
     font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   .company a:hover{
       background-color: white;
