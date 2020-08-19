@@ -119,6 +119,10 @@
       margin-left: 5%;
       margin-right: 5%;
     }
-    
+    .topnav a{
+      font-size: 15px;
+      padding: 14px 8px;
+    }
     
   }
+
