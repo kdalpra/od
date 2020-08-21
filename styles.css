@@ -27,7 +27,12 @@
     margin: auto;
     text-align: center;
     width: 95%;
-    padding-top: 40px;
+    padding-top: 20px;
+  }
+  .pricimg a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: bold;
   }
   .pricimg img{
     width: 20%;
