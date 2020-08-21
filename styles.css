@@ -23,7 +23,14 @@
     background-color: #ddd;
     color: black;
   }
-  
+  .pricimg{
+    margin: auto;
+    text-align: center;
+    width: 95%;
+  }
+  .pricimg img{
+    width: 20%;
+  }
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: rgb(100, 154, 255);
@@ -122,6 +129,10 @@
     .topnav a{
       font-size: 17px;
       padding: 14px 8px;
+    }
+    .pricimg img{
+      width: 90%;
+
     }
     
   }
